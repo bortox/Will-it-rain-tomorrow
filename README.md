@@ -1,5 +1,5 @@
 
-# Will-it-rain-tomorrow
+<img alt="Explanatory image" src="willitrain.png?raw=true">
 
 This is my first pyqt5 project, so there could be lots of improvements in the code, I think. Feel free to open an issue or a pull request. 
 
