@@ -1,5 +1,4 @@
 import sys
-import pymsgbox
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QVBoxLayout, QLabel, QInputDialog, QLineEdit, QMessageBox
 from PyQt5.QtGui import QIcon, QFont
 from PyQt5.QtCore import pyqtSlot,Qt
